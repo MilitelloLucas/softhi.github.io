@@ -25,7 +25,7 @@ var Texto;
 var jugador2 = false;
 
 function preload(){
-    this.load.image('sky','assets/hoja.JPG');
+    this.load.image('sky','assets/hoja.jpg');
     this.load.image('bomb','assets/bomb.png');
     this.load.image('star','assets/flor.png');
     this.load.image('plataforma', 'assets/platform2.png');
